@@ -1,0 +1,11 @@
+#
+.idea
+blog/__pycache__
+blog/migrations
+blog/static/blog
+blog/templates/simple_blog_template
+blog/templatetags/__pycache__
+blog/tests.py
+db.sqlite3
+manage.py
+myblog
